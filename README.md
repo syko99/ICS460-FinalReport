@@ -1,5 +1,5 @@
 # Snort IDS/IPS Implementation - Final Report
-Group 4: Robert Castellano, Rodnee Yang, Sykong Yang 
+Group 4: Robert Castellano, Rodnee Yang, Sykong Yang
 <br>
 
 # Introduction
