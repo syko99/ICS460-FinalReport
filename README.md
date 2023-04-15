@@ -15,7 +15,7 @@ The intrusion engine that makes up the backbone of our IDS. Version 3 of Snort f
 <br>
 
 ### Splunk
-Splunk is the GUI used for Snort. It can provides users with dashboards, enables saved searches, and provides reports, event types, tags and event search interfaces. [1](https://www.splunk.com/)
+Splunk is the GUI used for Snort. It can provides users with dashboards, enables saved searches, and provides reports, event types, tags and event search interfaces. [1](https://www.splunk.com/) <a href="https://www.splunk.com/" target="_blank">example</a>
 
 ### PulledPork 3
 PulledPork is a Snort component that is used for rulesets. It uses the LightSPD package and “allows a single ruleset package to adapt the rules it can run to the version of the engine running on the system and allows users to select a default policy for the ruleset.” [2](https://blog.snort.org/2021/06/pulledpork-3-rule-updating-for-snort-3.html)
